@@ -1,4 +1,4 @@
-# Automation_Test_Mars_Rover_BDD_09052023_rohitsaraswat7865
+# Test framework using Cucumber+ Gradle_rohitsaraswat7865
 
 Email: rohitsaraswat7865@gmail.com
 
