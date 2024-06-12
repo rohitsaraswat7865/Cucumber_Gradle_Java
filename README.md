@@ -1,4 +1,4 @@
-# Test framework using Cucumber+ Gradle_rohitsaraswat7865
+# Simple BDD Test framework using Cucumber+ Gradle
 
 Email: rohitsaraswat7865@gmail.com
 
